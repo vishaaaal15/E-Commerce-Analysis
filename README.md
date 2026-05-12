@@ -107,8 +107,8 @@ It reflects strong business intelligence, reporting, and analytical problem-solv
 
 ## Dashboard Preview
 
-(Excel Dashboard Screenshot.png)
-(Tableau Dashboard Screenshot.png)
+![Excel_Dashboard_Preview](images/Excel_Dashboard_Screenshot.png)
+![Tableau_Dashboard_Preview](images/Tableau_Dashboard_Screenshot.png)
 
 ---
 
